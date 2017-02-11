@@ -1,6 +1,6 @@
 # Genesis Atom UI
 
-This is a UI mix between <a href="https://atom.io/themes/one-dark-ui">One Dark</a> and <a href="https://atom.io/themes/genesis-ui">Genesis UI</a> for the <a href="https://atom.io/themes/genesis-syntax">Genesis Syntax Theme</a>. Mixing the dynamic ui changes based on syntax and the beauty of genesis.
+This is a UI mix between <a href="https://atom.io/themes/one-dark-ui">One Dark</a> and <a href="https://atom.io/themes/genesis-ui">Genesis UI</a> for the <a href="https://atom.io/themes/genesis-syntax">Genesis Syntax Theme</a>. Mixing the dynamic ui changes based on syntax and the beauty of Genesis.
 
 ![A screenshot of your theme]()
 
